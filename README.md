@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FaisalRaiyan
+- 👋 Hi, I’m Faisal Raiyan
 - 👀 I’m interested in Robotics & Programming.
 - 🌱 I’m currently learning a couple of languages and 3D Modelling.
 <!---- 💞️ I’m looking to collaborate on---> 
